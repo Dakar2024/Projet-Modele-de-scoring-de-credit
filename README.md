@@ -38,17 +38,7 @@ Déploiement et intégration
 
 Exportation du modèle sous forme exploitable
 Proposition d’un plan d’intégration pour l’entreprise
-Livrables attendus
-Notebook Jupyter :
 
-Contenant l’ensemble du code et des analyses
-Exporté en HTML pour une consultation simplifiée
-Présentation PowerPoint (15 diapositives maximum) :
-
-Résumé du projet
-Méthodologie adoptée
-Résultats et performances du modèle
-Recommandations finales
 Critères de réussite
 Un modèle performant avec une bonne capacité de généralisation
 Une approche interprétable justifiant les décisions prises
